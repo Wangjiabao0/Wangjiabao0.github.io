@@ -13,9 +13,9 @@ I'm a first-year Master's candidate from [Electrical Engineering](https://ee.kai
 Education
 ======
 ### Harbin Institute of Technology, Weihai
-B.S. Robotics Engineering 2019-2023 
-Supervisor: Bo Huang 
+B.S. Robotics Engineering 2019-2023  
+Supervisor: Prof. Bo Huang  
 
 ### Korea Advanced Institute of Science and Technology
-M.S. Electrical Engineering 2023-Present 
-Supervisor: Prof. Dong Eui Chang 
+M.S. Electrical Engineering 2023-Present  
+Supervisor: Prof. Dong Eui Chang  
