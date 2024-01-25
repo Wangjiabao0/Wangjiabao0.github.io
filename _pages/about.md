@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first-year Master's candidate from [Electrical Engineering](https://ee.kaist.ac.kr/), [Korea Advanced Institute of Science and Technology.](https://www.kaist.ac.kr/kr/) My research interests include Path Planning and Optimal Control.
+I'm a first-year Master's candidate supervised by [Prof. Dong Eui Chang](https://ee.kaist.ac.kr/en/professor/14314/) at [Ctrl Lab](https://control.kaist.ac.kr/home) in [School of Electrical Engineering](https://ee.kaist.ac.kr/), [Korea Advanced Institute of Science and Technology.](https://www.kaist.ac.kr/kr/) My research interests include Path Planning and Optimal Control.
 
 Education
 ======
